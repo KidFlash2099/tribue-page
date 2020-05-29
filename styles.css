@@ -4,35 +4,37 @@
 }
 
 body{
-    margin: 10px;
-    padding: 10px;
+    margin: 13px;
+    padding: 0;
 }
 
 .banner{
-    background-color: grey;
+    background-color: lightgray;
+    height: 150vh;
     text-align: center;
-    height: 150px;
-    margin-top: 50px;
+    font-family: sans-serif;
 }
 
-.intro{
-    padding-top: 25px;
-    padding-bottom: 10px;
-    font-size: 50px;
-    font-family: sans-serif; 
+.banner h1{
+  padding-top: 20px;
 }
 
 .banner p{
-    padding-top: 10px;
+    line-height: 45px;
+}
+
+.photo{
+    background: white;
+    height: 68vh;
+    text-align: center;
+    margin: 30px;
+}
+
+.photo p{
+    padding-top: 5px; 
     font-family: sans-serif;
-    font-size: 20px;
 }
 
-.pic{
-    margin-top: 30px;
-    margin-left: 430px;
-}
-
-.achievements ul{
-    margin-left: 100px;
+.statue{
+    padding: 2.5vh;
 }
