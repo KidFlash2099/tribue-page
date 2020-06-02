@@ -25,7 +25,7 @@ body{
 
 .photo{
     background: white;
-    height: 68vh;
+    height: 70vh;
     text-align: center;
     margin: 30px;
 }
@@ -37,4 +37,20 @@ body{
 
 .statue{
     padding: 2.5vh;
+}
+
+#time-line{
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#time-line h2{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 2rem;
+}
+
+#time-line li{
+    line-height: 40px;
+    font-size: 1.2rem;
 }
