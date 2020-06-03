@@ -31,26 +31,29 @@ body{
 }
 
 .photo p{
-    padding-top: 5px; 
+    padding-top: 2px; 
     font-family: sans-serif;
 }
 
 .statue{
-    padding: 2.5vh;
+    padding: 2.1vh;
 }
 
 #time-line{
     font-family: sans-serif;
-    text-decoration: none;
 }
 
 #time-line h2{
     padding-top: 20px;
     padding-bottom: 50px;
     font-size: 2rem;
+    text-align: center;
 }
 
 #time-line li{
+    margin-left: 450px;
     line-height: 40px;
     font-size: 1.2rem;
+    padding-left: -40px;
+    text-align: left;
 }
