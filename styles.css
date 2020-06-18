@@ -10,7 +10,7 @@ body{
 
 .banner{
     background-color: lightgray;
-    height: 150vh;
+    height: 160vh;
     text-align: center;
     font-family: sans-serif;
 }
@@ -56,4 +56,11 @@ body{
     font-size: 1.2rem;
     padding-left: -40px;
     text-align: left;
+}
+
+.ending-quote{
+    padding-top: 45px;
+    margin-left: 90px;
+    font-size: 1.3rem;
+    font-family: sans-serif;
 }
