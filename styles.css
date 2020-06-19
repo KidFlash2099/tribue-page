@@ -51,7 +51,7 @@ body{
 }
 
 #time-line li{
-    margin-left: 450px;
+    margin-left: 380px;
     line-height: 40px;
     font-size: 1.2rem;
     padding-left: -40px;
@@ -60,7 +60,7 @@ body{
 
 .ending-quote{
     padding-top: 45px;
-    margin-left: 90px;
+    margin-left: 120px;
     font-size: 1.3rem;
     font-family: sans-serif;
 }
